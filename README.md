@@ -15,13 +15,13 @@ __*Bold Italic*__
 #
 **Git Init**:
 
-![git init](./git_init.png)
+![git init](./git_init.PNG)
 
 **Git Status**:
-![git_status](./git_status.png)
+![git_status](./git_status.PNG)
 
 **Git Push**:
-![git_push](./git_push.png)
+![git_push](./git_push.PNG)
 
 ```python
 x = 7
