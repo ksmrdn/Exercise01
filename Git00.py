@@ -33,3 +33,7 @@ print('Rachmad pasti bisa!')
 #git checkout master --> melihat apa kita sudah di master
 #git branch -D namabranch --> delete branch
 #git merge namabranch --> masukkan branch ke master
+#git checkout -b namabranch --> masukkan nama branch sekaligus ke branch tersebut
+#git remote add rain01 https://github.com/ksmrdn/Exercise01.git
+#git push rain01 master --> create repository
+#git clone linkclonegithub
