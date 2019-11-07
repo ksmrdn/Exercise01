@@ -28,3 +28,8 @@ print('Rachmad pasti bisa!')
 #                                        ||            ||
 #                                        ||            ||
 #                                         commit branch 1
+#git branch namabranch
+#git branch -a --> melihat branch apa aja & posisi kita
+#git checkout master --> melihat apa kita sudah di master
+#git branch -D namabranch --> delete branch
+#git merge namabranch --> masukkan branch ke master
